@@ -1,4 +1,5 @@
 # BCG-Forage-Data-Science
+![logo](https://github.com/arbaazkhaan/BCG-Forage-Data-Science/blob/1cf4c3991e53873808fbf93079818da85cedd32c/png-clipart-boston-consulting-group-management-consulting-company-consultant-employee-benefits-others-company-text.png)
 ### Task 1: Business Understanding & Hypothesis Framing
 - :mag: **Understand the Business Context:** Identify factors impacting customer retention and churn in the utility industry.
 - :crystal_ball: **Formulate Hypotheses:** Explore the impact of price changes on customer churn.
